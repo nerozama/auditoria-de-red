@@ -44,7 +44,7 @@ def realizar_escaneo(address):
 
     try:
         # Ruta base donde crear los directorios
-        base_path = r"C:\Users\nero\Documents\vscode\auditorias"
+        base_path = r"C:\Users\ruta\unica\de\tu\sistema\"
 
         # Crear los directorios necesarios
         crear_directorios(base_path)
